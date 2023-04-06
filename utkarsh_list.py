@@ -1,7 +1,7 @@
 import os
 list1 = [1, 3, 5, 7, 10]
 list1.reverse()
-print("the reverse list is", list)
+print("the reverse list is", list1)
 
 list2 = [91, 67, 85, 99, 44]
 list2.sort()
